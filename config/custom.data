@@ -1,0 +1,4 @@
+classes=1
+train=data/MicroNuclei/patch_data_608/train.txt
+valid=data/MicroNuclei/patch_data_608/valid.txt
+names=data/custom/classes.names

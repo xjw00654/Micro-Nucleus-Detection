@@ -1,0 +1,8 @@
+data
+checkpoints
+output
+runs
+data_back
+weights/*.weights
+weights/darknet53.conv.74
+__pycache__
